@@ -1,0 +1,38 @@
+#search-bar
+{
+  background: linear-gradient(to right , #300282 , #DE1DB4);
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand
+{
+  color: #fff;
+  font-size: 1.5rem;
+	font-weight: bold;
+  font-family: "Ubuntu";
+}
+.navbar-brand:hover
+{
+  color: #fff;
+}
+.nav-item
+{
+	padding: 0 18px;
+}
+.nav-link
+{
+  color: #fff;
+  font-size: 1.2rem;
+	font-family: "Montserrat-light";
+}
+.nav-link:hover
+{
+  color:#fff;
+}
+.Link
+{
+  color: #fff;
+}
+.Link:hover
+{
+  color: #fff;
+}

@@ -1,0 +1,127 @@
+#header
+{
+    background: linear-gradient(to right , #300282 , #DE1DB4);
+    font-family: 'Montserrat', sans-serif;
+}
+.container-fluid
+{
+	padding: 3% 15%;
+}
+.navbar
+{
+	padding:0 0 4.5rem;
+
+}
+.navbar-brand
+{
+  color: #fff;
+  font-size: 2.5rem;
+	font-weight: bold;
+  font-family: "Ubuntu";
+}
+.navbar-brand:hover
+{
+  color: #fff;
+}
+.nav-item
+{
+	padding: 0 18px;
+}
+.nav-link
+{
+  color: #fff;
+  font-size: 1.2rem;
+	font-family: "Montserrat-light";
+}
+
+.nav-link:hover
+{
+  color:#fff;
+}
+
+
+/* Section Info Begins */
+
+#info
+{
+  background:linear-gradient(to right , #300282 , #DE1DB4);
+  text-align: center;
+  align-items: center;
+}
+
+.bigheading
+{
+  color: #fff;
+  line-height: 1.5;
+}
+
+.info-image
+{
+  width: 60%;
+}
+
+.download-button
+{
+	margin: 5% 3% 5% 0;
+
+}
+
+/* Feature Sections Begin */
+
+#features
+{
+  padding: 7% 15%;
+}
+.feature-box
+{
+  text-align: center;
+  padding: 5%;
+}
+
+.icon
+{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover
+{
+  color: #ff4c68;
+}
+
+#videos
+{
+    padding: 7% 15%;
+    background: linear-gradient(to right , #300282 , #DE1DB4);
+    text-align: center;
+	  align-items: center;
+}
+.card1
+{
+  background-color: rgb(76,209,238);
+}
+.card2
+{
+  background-color: rgb(76,209,238);
+}
+.card3
+{
+  background-color: rgb(76,209,238);
+}
+
+#footer
+{
+  padding: 7% 15%;
+  text-align: center;
+}
+.social-icon
+{
+	margin: 20px 10px;
+	color: rgb(138, 15, 155);
+}
+
+.button-color
+{
+	background-color: rgb(127, 18, 209);
+	color: white;
+}
